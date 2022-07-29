@@ -1,8 +1,8 @@
-## Hi there :wave:
+# Hi there :wave:
 
-Welcome to my Github profile! :octocat:
+<img align="right" width="60%" height="60%" src="https://i.imgur.com/jyXHlTW.gif" >
 
-<p><img src="https://i.imgur.com/jyXHlTW.gif" alt="cat" width=50% style="float:right;"></p>
+### Welcome to my Github profile! :octocat:
 
 #### About me:
 
@@ -10,6 +10,7 @@ Welcome to my Github profile! :octocat:
 * 📊 I’m currently learning ***Data Analytics and Data Science***
 * 🙋 I’m looking for help with ***Python, Github, SQL***
 * 👤 Pronouns: ***he/him***
-
-| 📧 How to reach me: camilo.granda96@gmail.com
+#
 | 💻 My Kaggle profile: https://www.kaggle.com/camilograndagmez
+#
+| 📧 How to reach me: camilo.granda96@gmail.com
