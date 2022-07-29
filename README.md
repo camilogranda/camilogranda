@@ -2,6 +2,8 @@
 
 Welcome to my Github profile! :octocat:
 
+<p><img src="https://i.imgur.com/jyXHlTW.gif" alt="cat"></p>
+
 #### About me:
 
 * 🎓 I'm graduated in ***Psychology***
