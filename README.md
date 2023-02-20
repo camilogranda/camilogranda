@@ -7,7 +7,7 @@
 #### About me:
 
 * 🎓 I'm graduated in ***Psychology***
-* 📊 I’m currently learning ***Data Analytics and Data Science***
+* 📊 I’m currently learning ***Data Analytics and Data Engineering***
 * 🙋 I’m looking for help with ***Python, Github, SQL***
 * 👤 Pronouns: ***he/him***
 #
