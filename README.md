@@ -6,9 +6,9 @@
 
 #### About me:
 
-* 🎓 I'm graduated in ***Psychology***
-* 📊 I’m currently learning ***Data Analytics and Data Engineering***
+* 📊 I’m currently learning ***Data Engineering and Data Analysis***
 * 🙋 I’m looking for help with ***Python, Github, SQL***
+* 🎓 I'm graduated in ***Psychology***
 * 👤 Pronouns: ***he/him***
 #
 | 💻 My Kaggle profile: https://www.kaggle.com/camilograndagmez
