@@ -7,7 +7,7 @@
 #### About me:
 
 * 📊 I’m currently learning ***Data Engineering and Data Analysis***
-* 🕷️ Web scraping and data cleaning & visualization is ***my passion***
+* 🕷️ Web scraping, data cleaning & visualization are ***my passion***
 * 🙋 I’m looking for help with ***Python, Github, SQL***
 * 🎓 I'm graduated in ***Psychology***
 * 👤 Pronouns: ***he/him***
